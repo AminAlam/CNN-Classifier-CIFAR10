@@ -1,3 +1,9 @@
 report
 *.zip
 *.png
+*.tar
+*.gz
+*.ipynb_checkpoints
+*datas
+.DS_Store
+datas
